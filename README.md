@@ -56,8 +56,8 @@ In future projects, I'd like to continue my learning and application of the foll
 - [Accessible Landmarks | scottohara.me](https://www.scottohara.me/blog/2018/03/03/landmarks.html) - This gave a good introduction on what HTML5 landmarks are, providing use cases and examples that are really helpful
 - [Should I change the default HTML font-size to 62.5%? - FED Mentor](https://fedmentor.dev/posts/rem-html-font-size-hack/) - This was really insightful on when and how to use `rem` instead of `px`, as well as providing additional techniques to make this conversion easier
 - For the CSS reset, the following resources proved to be very helpful:
-  - [A Modern CSS Reset - Andy Bell](https://andy-bell.co.uk/a-modern-css-reset/)
-  - [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/)
+  - Andy Bell's [A Modern CSS Reset](https://andy-bell.co.uk/a-modern-css-reset/)
+  - [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/) by Joshua Comeau
 
 ## Author
 
